@@ -1,0 +1,11 @@
+package br.com.estudo.springboot.api;
+
+
+public class SpringBootApplication {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
